@@ -1,0 +1,7 @@
+vim freeracex it
+
+
+freeracex:MakeChanges(f, freeracex, freeracex)
+
+freeracex dif:fid
+makeFID: do makeLogs(kd)
