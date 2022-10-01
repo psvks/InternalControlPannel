@@ -1,23 +1,21 @@
-# Internal Executor
+## Internal Control Pannel
 
-Please note: **This is a showcase. And it won't update for the public.**  
-This Internal Executor uses FreeRacex API. Its a fast VM Execution API.
+This is a control pannel made by me. This pannel shows you the CPU clock  
+Roblox memory and even your exact time.
 
-Some functions may be misssing. FreeRacex API doesn't support that much of functions.
+This is just a usless showcase to show myself how to fucking script properly
 
-## Integrated functions
+## About this project
 
-```lua
-self.Executor:API
-```
+This project will be updated, and maybe discontinued.  
+This script will be updated whenever a new change is made.
 
-This function request FreeRacex API
+## Controls
 
-```lua
-self.Executor:API.Blur
-```
 
-This function request blur.
+Hummmmss no controls only open with f1 you retarded
 
-Please note: **not all the functions are here.**
 
+## Credits
+
+**psvks** - Developer
