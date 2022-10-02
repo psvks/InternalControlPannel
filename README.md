@@ -5,6 +5,9 @@ Roblox memory and even your exact time.
 
 This is just a usless showcase to show myself how to fucking script properly
 
+`ICP 1 is discontinued, We are making ICP 2`
+
+
 ## About this project
 
 This project will be updated, and maybe discontinued.  
